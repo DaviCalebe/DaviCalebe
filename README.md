@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviCalebe
 - 👀 I’m interested in learning about this area
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on mini projects for beginners
 - 📫 How to reach me? Instagram: @dcalebee
 
