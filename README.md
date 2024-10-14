@@ -5,7 +5,7 @@
 
   ###
 
-<p>Sup, i'm Davi Calebe and i'm actually learning React, a JS framework. <br> I'm studying System Analysis and Development at the university <br> Knowledge in Code Versioning, DataBase, ServiceNow,  Figma, Canvas, Agile Methodologies, Intermediary English and stuff. <br> For more: </p>
+<p>Sup, i'm Davi Calebe and i'm actually learning Typescript on React. <br> I'm studying System Analysis and Development at the university <br> Knowledge in Code Versioning, DataBase, ServiceNow,  Figma, Canvas, Agile Methodologies, Intermediary English and stuff. <br> For more: </p>
   
   <div> 
   <a href="https://instagram.com/dcalebee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
